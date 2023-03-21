@@ -1,12 +1,17 @@
 .raposinha{
-    width: 30%;
+    width:30%;
 
 
 
 }
 
 .kitsune-rafiki.png {
- width: 65%;
+ width:65%;
 
 
+}
+.conteudo{
+
+    display: flex;
+    flex-direction: row;
 }

@@ -25,6 +25,8 @@ width:25%;
 }
 .cabecalho{
 
+   font-size: larger;
+   font-style: inherit;
     display: flex;
     flex-direction: row;
 

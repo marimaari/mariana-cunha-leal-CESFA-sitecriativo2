@@ -1,4 +1,4 @@
-.chocolate.png{
+.chocolatee2.png{
     width:30%;
 
 
@@ -7,12 +7,19 @@
 
 
 
-.kitsune-rafiki.png {
- width: 50px;
+.chocolate.png {
+width:25%;
 
 }
-.conteudo{
-
+.conteudo{ 
+    font-style:oblique;
+    font-size: medium;
+    
+    
+    
+    
+    
+    
     display: flex;
     flex-direction: row;
 }

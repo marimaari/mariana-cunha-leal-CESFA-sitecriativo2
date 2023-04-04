@@ -1,3 +1,15 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
 .chocolatee2.png{
     width:30%;
 
@@ -6,13 +18,17 @@
 }
 
 
-
 .chocolate.png {
-width:25%;
+
+
+    width:25%;
 
 }
+
 .conteudo{ 
-    font-style:oblique;
+    
+    
+
     font-size: medium;
     
     
@@ -23,6 +39,8 @@ width:25%;
     display: flex;
     flex-direction: row;
 }
+
+
 .cabecalho{
 
    font-size: larger;
